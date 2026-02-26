@@ -1,6 +1,6 @@
 id = "lumina-theme"
 name = "Lumina"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Alex Thomson <alexjthomson1882@gmail.com>"]
 description = "A theme that's easy on your eyes and your monitor."
